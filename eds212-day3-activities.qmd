@@ -22,3 +22,7 @@ vec_a %*% vec_b
 
 
 ```
+
+```{r}
+# this is a new chunk to test git bash
+```
