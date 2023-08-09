@@ -4,3 +4,21 @@ title: "eds212-day3-activities"
 
 ## day 3 activities
 
+```{r}
+library(tidyverse)
+```
+
+```{r}
+vec_a <- c(1, 6)
+vec_b <- c(2, 4)
+
+```
+
+```{r}
+vec_a + vec_b
+vec_a - vec_b
+4 * vec_a
+vec_a %*% vec_b
+
+
+```
